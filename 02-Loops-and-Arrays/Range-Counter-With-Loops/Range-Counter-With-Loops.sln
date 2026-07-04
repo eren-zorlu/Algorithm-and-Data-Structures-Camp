@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range-Counter-With-Loops", "Range-Counter-With-Loops.csproj", "{BD90F127-0F43-4185-8192-E05A36229D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD90F127-0F43-4185-8192-E05A36229D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD90F127-0F43-4185-8192-E05A36229D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD90F127-0F43-4185-8192-E05A36229D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD90F127-0F43-4185-8192-E05A36229D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABDE0FD4-E9C5-460B-82FB-D44EE4D9C1A4}
+	EndGlobalSection
+EndGlobal

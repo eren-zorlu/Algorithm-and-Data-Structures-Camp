@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList-And-Boxing-Unboxing", "ArrayList-And-Boxing-Unboxing.csproj", "{AE02D6F0-E921-4933-B323-4B5FE52E78D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE02D6F0-E921-4933-B323-4B5FE52E78D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE02D6F0-E921-4933-B323-4B5FE52E78D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE02D6F0-E921-4933-B323-4B5FE52E78D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE02D6F0-E921-4933-B323-4B5FE52E78D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13AC7F1C-C667-4398-A77B-28B2442E66FF}
+	EndGlobalSection
+EndGlobal
